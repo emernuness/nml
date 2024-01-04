@@ -1,7 +1,7 @@
-# App Android e iOS - NML - No More Lies
+# NML - No More Lies
 
 ## Sobre o Projeto
-NML (No More Lies) é um aplicativo de código aberto criado para combater a disseminação de fake news. Utilizando tecnologias de Inteligência Artificial, o app analisa áudios do ambiente em tempo real e verifica a veracidade das informações ouvidas, fornecendo feedback imediato aos usuários. Este projeto foi idealizado por Emerson Nunes, um desenvolvedor front-end com mais de 15 anos de experiência, natural de Curitiba, PR.
+NML (No More Lies) é um aplicativo de código aberto para dispositivos Android e iOS criado para combater a disseminação de fake news. Utilizando tecnologias de Inteligência Artificial, o app analisa áudios do ambiente em tempo real e verifica a veracidade das informações ouvidas, fornecendo feedback imediato aos usuários. 
 
 ## Sobre o Fundador
 Emerson Nunes é um desenvolvedor front-end experiente, especializado em CSS, HTML, Javascript, ReactJs e React Native. Motivado pelo atual cenário de polarização política e a disseminação de notícias falsas, Emerson decidiu usar suas habilidades para criar uma solução que promova a verdade e a transparência.
