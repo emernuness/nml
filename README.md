@@ -15,7 +15,7 @@ Sua contribuição é fundamental para o sucesso do NML! Seja adicionando códig
 5. Abra um Pull Request.
 
 ## Código de Conduta
-Este projeto segue um código de conduta para garantir um ambiente colaborativo e respeitoso. Antes de contribuir, por favor leia o [Código de Conduta](https://github.com/emernuness/nml/codigo-de-conduta.md).
+Este projeto segue um código de conduta para garantir um ambiente colaborativo e respeitoso. Antes de contribuir, por favor leia o [Código de Conduta](https://github.com/emernuness/nml/blob/main/codigo-de-conduta.md).
 
 ## Licença
 Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
